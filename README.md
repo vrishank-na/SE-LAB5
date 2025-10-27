@@ -1,6 +1,6 @@
 # Lab 5: Static Analysis Issue Report
 
-This table documents a minimum of four issues identified by Pylint, Bandit, and Flake8, along with the approach taken to fix them[cite: 32, 35].
+This table documents a minimum of four issues identified by Pylint, Bandit, and Flake8, along with the approach taken to fix them.
 
 | Issue | Tool(s) | Line(s) | Description | Fix Approach |
 | :--- | :--- | :--- | :--- | :--- |
